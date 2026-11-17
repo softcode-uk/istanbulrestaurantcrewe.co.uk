@@ -1,0 +1,47 @@
+{
+  "domain": "www.istanbulrestaurantcrewe.co.uk",
+  "name": "Istanbul Restaurant",
+  "shopSlug": "Istanbul Restaurant-CW2",
+  "cuisine": "Turkish",
+  "telephone": "01270 914155",
+  "email": "info@istanbulrestaurantcrewe.co.uk",
+  "address": {
+    "street": "230-232 Edleston Road",
+    "locality": "Crewe",
+    "postcode": "CW2 7EH",
+    "region": "Cheshire",
+    "country": "United Kingdom",
+    "countryCode": "GB"
+  },
+  "pages": [
+    {
+      "file": "home.html",
+      "path": "",
+      "nav": "Home",
+      "title": "Experience Authentic Turkish Cuisine at Istanbul Restaurant",
+      "description": "Delight in traditional Turkish dishes and breakfast at Istanbul Restaurant in Crewe. Savour the true flavours of Turkey."
+    },
+    {
+      "file": "table-booking.html",
+      "path": "table-booking/",
+      "nav": "Table Booking",
+      "title": "Table Booking - Istanbul Restaurant",
+      "description": "Book a table at Istanbul Restaurant for authentic Turkish dishes and warm hospitality. Experience culinary heritage!"
+    },
+    {
+      "file": "order-online-and-menu.html",
+      "path": "order-online-and-menu/",
+      "nav": "Order Online & Menu",
+      "title": "Order Online",
+      "description": "See the latest menu of Istanbul Restaurant in Crewe and order authentic Turkish food online. Free delivery available."
+    },
+    {
+      "file": "contact-us.html",
+      "path": "contact-us/",
+      "nav": "Contact us",
+      "title": "Contact Us - Istanbul Restaurant",
+      "description": "Get in touch with Istanbul Restaurant for inquiries, reservations, and more about our Turkish cuisine."
+    }
+  ],
+  "brandColor": "#b3261e"
+}

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.istanbulrestaurantcrewe.co.uk/sitemap.xml
